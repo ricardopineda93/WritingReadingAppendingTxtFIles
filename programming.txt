@@ -1,0 +1,4 @@
+Sorry, this is not your file any more. I used the write method over it so now this is what it is.
+Actually, it turns out we can share.
+We can opt to append to text files rather than overwrite.
+This is now OUR file! 
